@@ -1,0 +1,6 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd">
+    <StackLayout>
+        <Label text="Example of unicode character: Ł"/>
+        <TextField returnKeyType="next"/>
+    </StackLayout>
+</Page>
